@@ -35,7 +35,4 @@ The code uses standard C++ libraries such as `<iostream>`, `<fstream>`, and `<st
   - `capsule2.txt`, `tablets2.txt`, `liquids2.txt`, `ayurveda2.txt`: Stores sales records of respective medicine types.
 
 ## Author
-This pharmacy application was created by [Author's Name].
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This pharmacy application was created by Yogita Beniwal.
